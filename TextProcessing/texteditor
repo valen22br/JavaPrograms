@@ -1,0 +1,23 @@
+package texteditor;
+
+/**
+ *
+ * @author valen
+ */
+public class TextEditor {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        String myStr = "Text processsing is hard";
+        int indexSearchStr = 0;
+        indexSearchStr = myStr.indexOf("hard");
+        System.out.println(indexSearchStr);
+        myStr = myStr.substring(0, indexSearchStr).concat("easy");
+        myStr = myStr.toUpperCase();
+        System.out.println(myStr);
+                
+    }
+}
