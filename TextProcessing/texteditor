@@ -15,10 +15,8 @@ public class TextEditor {
         int indexSearchStr = 0;
         indexSearchStr = myStr.indexOf("hard");
         System.out.println(indexSearchStr);
-        //myStr.replace("/*hard*/", "/*easy*/");
         myStr = myStr.substring(0, indexSearchStr).concat("easy");
         myStr = myStr.toUpperCase();
-       // myStr.replace
         System.out.println(myStr);
                 
     }
