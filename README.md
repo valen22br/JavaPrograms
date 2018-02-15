@@ -1,2 +1,2 @@
 # JavaPrograms
-Java Simple Programs
+Java Simple Examples
