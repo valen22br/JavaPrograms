@@ -75,7 +75,7 @@ class Car{
         this.weight = keyboard.nextInt();
     }
     /*
-     * Method compare to car objectes.
+     * Method to compare to car objectes.
      * Takes the the second car object as argument. The firs is the own 
      * object that is calling the function
      * Returns a string after comparing the ratio horsepower/weight, with the

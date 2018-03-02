@@ -56,21 +56,21 @@ class Patient{
         return age;
     }
     /*
-     * Nutator Method to set the name.
+     * Mutator Method to set the name.
      * Takes a string as newName argument
      */
     public void setName(String newName){
         this.name = newName;
     }
     /*
-     * Nutator Method to set the weight.
+     * Mutator Method to set the weight.
      * Takes a double as newWeight argument
      */
     public void setWeight(double newWeight){
         this.weight = newWeight;
     }
     /*
-     * Nutator Method to set the age.
+     * Mutator Method to set the age.
      * Takes an int as newAge argument
      */
     public void setAge(int newAge){
