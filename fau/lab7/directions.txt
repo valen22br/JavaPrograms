@@ -1,0 +1,55 @@
+1) Write a JAVA program to read in positive integers until a negative value is entered, then it processes the values except for the last negative value and displays the largest value, smallest value, and the average of the entire values.
+
+Ex) 
+
+Output: Please enter a positive integer, or -1 to quit.
+Input: 1
+
+Output: Please enter a positive integer, or -1 to quit.
+Input: 2
+
+Output: Please enter a positive integer, or -1 to quit.
+Input: 3
+
+Output: Please enter a positive integer, or -1 to quit.
+Input: 4
+
+Output: Please enter a positive integer, or -1 to quit.
+Input: -1
+
+Output:
+
+For the 4 numbers you entered
+the largest value = 4
+the smallest value = 1
+and the average is = 2.5
+
+2) Write a JAVA program to read a one-line sentence and outputs one of the following responses:
+
+      "Even" if the line ends in a "?" and has an even number of characters.
+      "Odd" if the line ends in a "?" and has an odd number of characters.
+      "Wow" if the line ends with "!"
+      "Null" in all other cases.
+
+Hint: use switch and methods nextLine(), length() and charAt(args).
+
+Ex) 
+
+Output: Please enter a one line question or statement.
+Input: Is this?
+Output: Even
+
+3) 
+
+Write a JAVA program that asks the user for how many elements are in an array. The program then creates an array of size that the user entered. Then the program prompts the user to fill the array with their input (double). After the array has been filled the program outputs the average value of elements in the array.
+
+Output: Enter how many elements are in the array
+Input: 2
+
+Output: Enter element 1 in the array
+Input: 1
+
+Output: Enter element 2 in the array
+Input: 2
+
+Output: The avg value of elements in the array is 1.5
