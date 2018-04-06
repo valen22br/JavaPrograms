@@ -8,7 +8,7 @@
  * Last Changed: 04/05/2018
  *
  * Description:
- * program that implements the quick sort method to a integer array
+ * program that implements the Merge Sort method to a integer array
  * Cate Time Complexity:
  * Worst case: O(nlog(n))
 /*******************************************************************************
