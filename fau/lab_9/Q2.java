@@ -9,7 +9,7 @@
  *
  * Description:
  * program that implements the Merge Sort method to a integer array
- * Cate Time Complexity:
+ * Time Complexity:
  * Worst case: O(nlog(n))
 /*******************************************************************************
  */
