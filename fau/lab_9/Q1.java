@@ -9,7 +9,7 @@
  *
  * Description:
  * program that implements the quick sort method to a integer array
- * Cate Time Complexity:
+ * Time Complexity:
  * Worst case: O(n^2)
 /*******************************************************************************
  */
