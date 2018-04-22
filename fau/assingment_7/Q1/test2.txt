@@ -1,0 +1,4 @@
+Write a program that reads every line in a text file, removes the first word from each line, and then writes the resulting lines to a new text file. 
+Write a recursive method that will compute the number of odd digits in a number. 
+Write a program that will read a text file that contains an unknown number of movie review scores. Read the scores as Double values and put them in an instance of ArrayList. Compute the average score. 
+your source codes (.java files) for all of the exercises. 
